@@ -1,0 +1,14 @@
+D:\Jepun.Base\DLLs\Jepun.Core.Log.dll
+D:\Jepun.Base\DLLs\Jepun.Core.Log.pdb
+D:\Jepun.Base\Jepun.Core\Jepun.Core.Log\Jepun.Core.Log\obj\Debug\Jepun.Core.Log.csprojResolveAssemblyReference.cache
+D:\Jepun.Base\Jepun.Core\Jepun.Core.Log\Jepun.Core.Log\obj\Debug\Jepun.Core.Log.dll
+D:\Jepun.Base\Jepun.Core\Jepun.Core.Log\Jepun.Core.Log\obj\Debug\Jepun.Core.Log.pdb
+D:\Jepun.Base\DLLs\NLog.config
+C:\Users\chrisli\Desktop\新增資料夾\Jepun.Base\DLLs\NLog.config
+C:\Users\chrisli\Desktop\新增資料夾\Jepun.Base\DLLs\Jepun.Core.Log.dll
+C:\Users\chrisli\Desktop\新增資料夾\Jepun.Base\DLLs\Jepun.Core.Log.pdb
+C:\Users\chrisli\Desktop\新增資料夾\Jepun.Base\Jepun.Core\Jepun.Core.Log\Jepun.Core.Log\obj\Debug\Jepun.Core.Log.csprojAssemblyReference.cache
+C:\Users\chrisli\Desktop\新增資料夾\Jepun.Base\Jepun.Core\Jepun.Core.Log\Jepun.Core.Log\obj\Debug\Jepun.Core.Log.csproj.CoreCompileInputs.cache
+C:\Users\chrisli\Desktop\新增資料夾\Jepun.Base\Jepun.Core\Jepun.Core.Log\Jepun.Core.Log\obj\Debug\Jepun.Core.Log.csproj.CopyComplete
+C:\Users\chrisli\Desktop\新增資料夾\Jepun.Base\Jepun.Core\Jepun.Core.Log\Jepun.Core.Log\obj\Debug\Jepun.Core.Log.dll
+C:\Users\chrisli\Desktop\新增資料夾\Jepun.Base\Jepun.Core\Jepun.Core.Log\Jepun.Core.Log\obj\Debug\Jepun.Core.Log.pdb

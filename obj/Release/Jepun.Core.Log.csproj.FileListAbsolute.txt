@@ -1,0 +1,7 @@
+D:\Jepun.Base\DLLs\Jepun.Core.Log.XML
+D:\Jepun.Base\DLLs\Jepun.Core.Log.dll
+D:\Jepun.Base\DLLs\Jepun.Core.Log.pdb
+D:\Jepun.Base\Jepun.Core\Jepun.Core.Log\Jepun.Core.Log\obj\Release\Jepun.Core.Log.csprojResolveAssemblyReference.cache
+D:\Jepun.Base\Jepun.Core\Jepun.Core.Log\Jepun.Core.Log\obj\Release\Jepun.Core.Log.dll
+D:\Jepun.Base\Jepun.Core\Jepun.Core.Log\Jepun.Core.Log\obj\Release\Jepun.Core.Log.pdb
+D:\Jepun.Base\DLLs\NLog.config
